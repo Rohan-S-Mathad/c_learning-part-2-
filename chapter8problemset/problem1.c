@@ -1,0 +1,1 @@
+//gets read multiwod string                         
